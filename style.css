@@ -1,0 +1,50 @@
+.one{
+    border: wheat;
+    box-shadow: 1px 1px 1px 1px;
+}
+.menu ul li  {
+    display: inline-block;
+    padding: 0 15px;
+    
+   
+    
+}
+.menu ul li:hover{
+    background-color:rgba(69, 131, 189, 0.938);
+    border-radius: 25px;
+}
+.menu{
+    float: right;
+    margin-top: 20px;
+    margin-right: 80;
+    
+}
+.menu a{
+    color: black;
+    font-size: 15px;
+}
+.menu a:hover{
+       color: white;
+}
+.sp{
+    margin-left: 400px;
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+}
+.tp{
+    margin-left: 200px;
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+}
+.a{
+    margin-left: 150px;
+    color: green;
+    font-weight: 900;
+    
+}
+.sam{
+    margin-left: 150px;
+    margin-top: 100px;
+}
